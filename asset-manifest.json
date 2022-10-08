@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bolets/static/css/main.d924b63c.css",
+    "main.js": "/bolets/static/js/main.940067c9.js",
+    "static/js/787.aeef9fba.chunk.js": "/bolets/static/js/787.aeef9fba.chunk.js",
+    "service-worker.js": "/bolets/service-worker.js",
+    "index.html": "/bolets/index.html",
+    "main.d924b63c.css.map": "/bolets/static/css/main.d924b63c.css.map",
+    "main.940067c9.js.map": "/bolets/static/js/main.940067c9.js.map",
+    "787.aeef9fba.chunk.js.map": "/bolets/static/js/787.aeef9fba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d924b63c.css",
+    "static/js/main.940067c9.js"
+  ]
+}
